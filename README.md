@@ -30,13 +30,13 @@ Welcome to the repository for my personal portfolio website! This is where I sho
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Naresh-Khatri/Portfolio.git
+    git clone https://github.com/Supercometstar/SCS-Portfolio.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Portfolio
+    cd SCS-Portfolio
     ```
 
 3. Install dependencies:
