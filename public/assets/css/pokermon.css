@@ -5,19 +5,19 @@
     --charizard1: #fac;
     --charizard2: #ddccaa;
     /* --charizardfront: url('https://raw.githubusercontent.com/John-T45/John-T45/main/achievement/Software%20Developer.JPG'); */
-    --charizardfront: url('./FORMAT.JPG');
+    --charizardfront: url('./FORMAT.jpg');
     --pika1: #54a29e;
     --pika2: #a79d66;
     /* --pikafront: url('https://raw.githubusercontent.com/John-T45/John-T45/main/achievement/Frontend%20Developer(React).JPG'); */
-    --pikafront: url('./FORMAT.JPG');
+    --pikafront: url('./FORMAT.jpg');
     --eevee1: #efb2fb;
     --eevee2: #acc6f8;
     /* --eeveefront: url('./Go.JPG'); */
-    --eeveefront: url('./FORMAT.JPG');
+    --eeveefront: url('./FORMAT.jpg');
     --mewtwo1: #efb2fb;
     --mewtwo2: #acc6f8;
     /* --mewtwofront: url('./Python.JPG'); */
-    --mewtwofront: url('./FORMAT.JPG');
+    --mewtwofront: url('./FORMAT.jpg');
   }
   
   
