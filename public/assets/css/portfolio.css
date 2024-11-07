@@ -760,7 +760,7 @@ p {
 }
 
 .item-card > div > picture::before {
-  content: "Data Analysis";
+  content: "Game Developer";
   display: flex;
   flex-direction: column;
   align-items: flex-end;
