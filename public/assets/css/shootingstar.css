@@ -34,3 +34,7 @@ body.o-start #canvas {
 body.o-start #message {
   opacity: 1;
 }
+
+div.dg.ac {
+  display: none;
+}

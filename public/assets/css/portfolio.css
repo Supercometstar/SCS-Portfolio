@@ -1,3 +1,15 @@
+span.highlight.dodgerblue {
+  color: skyblue;
+}
+
+span.highlight.gold {
+  color: goldenrod;
+}
+
+span.highlight.gray {
+  color: gray;
+}
+
 body {
 	/* background: linear-gradient(264deg, rgba(23,23,23,1) 0%, rgba(33,33,33,1) 49%, rgba(23,23,23,1) 100%); */
 	font-family: 'Open Sans', sans-serif;
@@ -367,7 +379,7 @@ p {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 100%;
   height: auto;
   margin-top: 20px;
@@ -544,7 +556,7 @@ p {
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  width: 50%;
+  width: 400px;
   height: auto;
 }
 
@@ -666,13 +678,11 @@ p {
   justify-content: center;
   width: 50%;
   height: auto;
-  border-right: 5px dotted black;
   opacity: 0.8;
 }
 
 .portfolio > .portfolio-item:nth-child(even) > .item-card {
   border-right: unset;
-  border-left: 5px dotted black;
 }
 
 @keyframes dots {
